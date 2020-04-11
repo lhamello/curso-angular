@@ -1,7 +1,8 @@
 
+
 # curso-angular
 
-Curso de Angular da Loiane Groner disponível em: <[https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)>.
+Curso de Angular da Loiane Groner disponível em: https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G.
  
 *******
 Tabelas de conteúdo 
