@@ -42,3 +42,7 @@ Para verificar que o *Angular CLI* e o *node.js* estão instalados, utilizamos a
 Para criar um novo projeto, digite a seguinte linha de comando abaixo, no diretório escolhido para o projeto:
 
 <pre>$ ng new nome-do-projeto</pre>
+
+Depois, no diretório do projeto, digitamos a seguinte linha abaixo, para criar um servidor local para podermos testar nossa aplicação:
+
+<pre>$ ng serve</pre>
