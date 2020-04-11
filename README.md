@@ -39,4 +39,6 @@ Para verificar que o *Angular CLI* e o *node.js* estão instalados, utilizamos a
 <div id='criandoprojeto'/>  
 
 ## Criando Projeto
-Para criar um novo projeto 
+Para criar um novo projeto, digite a seguinte linha de comando abaixo, no diretório escolhido para o projeto:
+
+<pre>$ ng new nome-do-projeto</pre>
